@@ -1,0 +1,8 @@
+.name-section>h3{
+    text-align: center;
+}
+.col-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
